@@ -16,7 +16,7 @@
 > 技術
 - Console : 請使用NET Core 6 開發
 - Web API : 請使用.Net6開發
-- DataBase : 請使用MS SQL開發SQL程式，務必使用SQL Project做版控，一律採用Store procedure開發
+- DataBase : 請使用MS SQL開發SQL程式，一律採用Store procedure開發
 
 # Acceptance Criteria
 > 時間
